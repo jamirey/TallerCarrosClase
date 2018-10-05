@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TallerCarrosClase</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">AGREGAR</string>
+    <string name="placa">Placa</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="mercedes">Mercedes</string>
+    <string name="bmw">Bmw</string>
+    <string name="audi">Audi</string>
+    <string name="maserati">Maserati</string>
+    <string name="guardado_exitoso">Carro Guardada Exitosamente</string>
+
+
+    <string-array name="marca">
+        <item>@string/ferrari</item>
+        <item>@string/mercedes</item>
+        <item>@string/bmw</item>
+        <item>@string/audi</item>
+        <item>@string/maserati</item>
+    </string-array>
+
+</resources>
